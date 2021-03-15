@@ -1,0 +1,28 @@
+body{
+    background-color: white;
+
+}
+.selections {
+    margin-top:2rem;
+    display: flex;
+    justify-content:center;
+    size: 5px;
+    justify-content:space-around;
+
+} 
+.selections.selection {
+
+    
+    background-color:white;
+    font-size: 30px;
+    
+
+
+}
+.results{
+    margin-top: 1rem;
+    display:flex;
+    justify-content:center;
+    justify-content: space-around;
+
+}

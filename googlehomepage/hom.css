@@ -1,0 +1,55 @@
+
+.header{
+    
+
+     display:flex;
+     justify-content: flex-end;
+    
+}
+.headertags{
+    margin:10px;
+    color: black;
+    text-decoration: none;
+}
+.logo-ing{
+    margin-top: 10%;
+
+    display:flex;
+    justify-content: center;
+
+}
+img{
+
+    width: 20%;
+}
+.search-box{
+    
+    display:flex;
+    justify-content: center;
+ border-color: antiquewhite;
+
+
+
+
+
+    
+
+}
+.searchboxtag{
+    height: 30px;
+    width: 500px;
+    border-radius: 20px;
+}
+
+
+
+.button{
+    display:flex;
+    justify-content: center;
+
+}
+.buttontags{
+    margin: 10px;
+    
+}
+
